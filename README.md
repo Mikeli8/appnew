@@ -30,9 +30,11 @@
 
 1. **Скопировать репозиторий:**
 
-   тут ```https://github.com/Mikeli8/appnew```
+   тут ```
+   https://github.com/Mikeli8/appnew
+   ```
 
-2. **Проектный каталог:**
+3. **Проектный каталог:**
 
 - cd simple-chatting-web
 
