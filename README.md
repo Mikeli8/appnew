@@ -30,9 +30,7 @@
 
 1. **Скопировать репозиторий:**
 
-   ```https://github.com/Mikeli8/appnew
-
-   ```
+   тут ```https://github.com/Mikeli8/appnew```
 
 2. **Проектный каталог:**
 
